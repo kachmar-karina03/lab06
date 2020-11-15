@@ -1,0 +1,6 @@
+﻿  6.4.cpp
+C:\Users\galinasenik\source\repos\6.4\6.4\6.4.cpp(101,11): error C2131: выражение не определяется константой
+C:\Users\galinasenik\source\repos\6.4\6.4\6.4.cpp(101,11): message : сбой был вызван неконстантными аргументами или ссылкой на неконстантный символ
+C:\Users\galinasenik\source\repos\6.4\6.4\6.4.cpp(101,11): message : см. использование "N"
+C:\Users\galinasenik\source\repos\6.4\6.4\6.4.cpp(107,22): warning C4552: "<<": результат выражения не используется
+C:\Users\galinasenik\source\repos\6.4\6.4\6.4.cpp(115,22): warning C4552: "<<": результат выражения не используется
